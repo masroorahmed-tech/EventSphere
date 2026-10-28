@@ -1,0 +1,9 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: #f4f7fb;
+}
+
+.label {
+    -fx-text-fill: #1f2937;
+    -fx-font-size: 14px;
+}
